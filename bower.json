@@ -1,0 +1,20 @@
+{
+  "name": "mean",
+  "version": "0.0.1",
+  "authors": [
+    "manaiajunior <manaiajr.ifrn@gmail.com>"
+  ],
+  "description": "Gerenciamentos de dependecias front-ends",
+  "keywords": [
+    "first",
+    "mean"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
